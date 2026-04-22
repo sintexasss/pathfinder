@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Seeed_Studio_XIAO_Series") (type "KiCad") (uri "${KICAD10_FOOTPRINT_DIR}/Xiao.pretty") (options "") (descr ""))
+	(lib (name "L08R5000Q1") (type "KiCad") (uri "${KICAD10_FOOTPRINT_DIR}/LED_L08R.pretty") (options "") (descr ""))
+)
